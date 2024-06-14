@@ -11,7 +11,7 @@
     <string name="merek">Merek</string>
     <string name="batal">Batal</string>
     <string name="simpan">Simpan</string>
-    <string name="pesan_hapus">Anda yakin ingin menghapus gambar ini?</string>
+    <string name="pesan_hapus">Anda yakin ingin menghapus merek ini?</string>
     <string name="tombol_hapus">Hapus</string>
     <string name="tombol_batal">Batal</string>
 </resources>
